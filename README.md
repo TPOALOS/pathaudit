@@ -97,3 +97,7 @@ python3 -m unittest -v
 ## License
 
 MIT (c) TPOALOS
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [symlinkcheck](https://github.com/TPOALOS/symlinkcheck) · [sudoers-audit](https://github.com/TPOALOS/sudoers-audit) · [listenwatch](https://github.com/TPOALOS/listenwatch) · [all 51 tools](https://tpoalos.github.io)
